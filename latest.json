@@ -1,7 +1,7 @@
 {
     "version":  "1.0.8",
     "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.8/Viper.exe",
-    "sha256":  "374d3434ffab86cdaf29beb49dfaf9f876fa129740acb0fdf5ea00c4f97821da",
-    "notes":  "Error UI fix",
+    "sha256":  "bd4a5993c5ac6f887c65225058108daabec92b12fe2084412423aa519ad2393c",
+    "notes":  "True 1.0.8",
     "mandatory":  false
 }
