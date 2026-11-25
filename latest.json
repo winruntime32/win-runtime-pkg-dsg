@@ -1,0 +1,7 @@
+{
+    "version":  "1.0.2",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.2/Clearly.exe",
+    "sha256":  "57e5e533f613060d015beef2234ada4af455a6db0ca5d2d12176085b49c36229",
+    "notes":  "Initial release",
+    "mandatory":  false
+}
