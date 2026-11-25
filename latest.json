@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.5",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.5/Viper.exe",
-    "sha256":  "8441f49c50bea9a5c0b60a89bad7ead6f12222f42b09a3d5eb59160042e12252",
-    "notes":  "Fix updater stub branding",
+    "version":  "1.0.6",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.6/Viper.exe",
+    "sha256":  "28e73fbd43a36ffa2628ff84a59d0aa19780b085625e03edb51b13a70a47fe83",
+    "notes":  "Smoke test",
     "mandatory":  false
 }
