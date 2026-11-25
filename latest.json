@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.3",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.3/Clearly.exe",
-    "sha256":  "1566d0c3555c7aa2eea7521b84701a3f2622f0b91f23f53fd7493c25f1b634f6",
-    "notes":  "Test update",
+    "version":  "1.0.4",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.4/Viper.exe",
+    "sha256":  "066c924ee6b810c3e5b2afc09cc38c7a9d1283a46b749adacfbfdec34ef31094",
+    "notes":  "Rebrand to Viper",
     "mandatory":  false
 }
