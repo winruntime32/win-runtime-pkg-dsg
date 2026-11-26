@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.15",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.15/Viper.exe",
-    "sha256":  "156639abbc35ed19c2547bf6431089555879f2c7058d6b631a5eb86cebcbbd16",
+    "version":  "1.0.16",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.16/Viper.exe",
+    "sha256":  "af5af9e9b7c09c5ba122adbf93764a9d54a85ae26ec402393aac67decb2fb0f8",
     "notes":  "",
     "mandatory":  false
 }
