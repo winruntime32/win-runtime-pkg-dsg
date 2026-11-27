@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.29",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.29/Viper.exe",
-    "sha256":  "f5254c1c87177b47c5c84b933d01d19af1d7b4aa18a1f33f60058971d71e340b",
-    "size":  3709952,
+    "version":  "1.0.30",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.30/Viper.exe",
+    "sha256":  "09e5653c9aac01bdfa045c6145068c0b7c1f293c4aa97bdf5ae7fd3e82c4628c",
+    "size":  3710464,
     "mandatory":  false,
-    "notes":  "aimbot: toggle for aiming at players in vehicles"
+    "notes":  "radar: thicker vehicle ring, occupant count, seated-player jitter fix"
 }
