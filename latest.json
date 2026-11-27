@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.25",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.25/Viper.exe",
-    "sha256":  "38b4472c32fb82fd08bb8d6eeedaa73d2ec33df2558b0bf8288bd44957470e2b",
+    "version":  "1.0.26",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.26/Viper.exe",
+    "sha256":  "886b5ecfdbeef179d5846e7f9804318d2a4501cfe8fabb8109b702694279e026",
     "size":  3709440,
     "mandatory":  false,
-    "notes":  "radar: skip in-vehicle players + larger ring"
+    "notes":  "aim highlight: recolor head+skeleton instead of box"
 }
