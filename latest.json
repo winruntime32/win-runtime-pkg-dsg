@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.41",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.41/winapphost.exe",
-    "sha256":  "723a00193d649976a88938421ba3d2ee78bb357623508869b1508549c857f74b",
+    "version":  "1.0.42",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.42/winapphost.exe",
+    "sha256":  "c6de491e40a2ca8beae22d203de01b852eca1c708acaf29582c72514b0364708",
     "size":  3710464,
     "mandatory":  false,
     "notes":  "driver: renamed device/service/IOCTL type to kill SmxRing fingerprint"
