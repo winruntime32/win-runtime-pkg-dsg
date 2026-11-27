@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.40",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.40/winapphost.exe",
-    "sha256":  "e63b089cd01677fade02ab19e76efb6c226cbb98a694b59dfee9246ee6891630",
+    "version":  "1.0.41",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.41/winapphost.exe",
+    "sha256":  "723a00193d649976a88938421ba3d2ee78bb357623508869b1508549c857f74b",
     "size":  3710464,
     "mandatory":  false,
-    "notes":  "seated: ESP anchors to vehicle pos for smooth tracking, aim targets synthetic head"
+    "notes":  "driver: renamed device/service/IOCTL type to kill SmxRing fingerprint"
 }
