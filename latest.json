@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.52",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.52/winapphost.exe",
-    "sha256":  "e5d0e3b6d80849712f92d8d2939efedee8e7a9bf6737de05e7df30bace72f279",
-    "size":  3712512,
+    "version":  "1.0.54",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.54/winapphost.exe",
+    "sha256":  "38a4d391e6b9634c43bd8b1ac81079dc923c66e0075b1f277d7fb51408330ccd",
+    "size":  3713536,
     "mandatory":  false,
-    "notes":  "batch character hot-path reads; 7x fewer IOCTLs per player"
+    "notes":  "launcher shows real subscription countdown from license.sig"
 }
