@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.51",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.51/winapphost.exe",
-    "sha256":  "abecd9e96204d50710deaffba2402917e29b8cac97f2e5f43e995948c419589d",
-    "size":  3713024,
+    "version":  "1.0.52",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.52/winapphost.exe",
+    "sha256":  "e5d0e3b6d80849712f92d8d2939efedee8e7a9bf6737de05e7df30bace72f279",
+    "size":  3712512,
     "mandatory":  false,
-    "notes":  "use snapshot-coherent camera for overlay; fewer driver reads"
+    "notes":  "batch character hot-path reads; 7x fewer IOCTLs per player"
 }
