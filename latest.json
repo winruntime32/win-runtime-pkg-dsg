@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.23",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.23/Viper.exe",
-    "sha256":  "b2cbd84273c730f3d2c386ffc74f1f9c0ee7b10e52b4a91f6ba87171d046e726",
-    "size":  3708416,
+    "version":  "1.0.24",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.24/Viper.exe",
+    "sha256":  "af428dc37ad21953749ccb986fa3436ec01fa232c95213886430ed318c802837",
+    "size":  3709440,
     "mandatory":  false,
-    "notes":  "color coding: cop/robber/civilian/citizen toggles + swatches"
+    "notes":  "launch guard + radar vehicles fix + letterbox aspect fix"
 }
