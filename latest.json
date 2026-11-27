@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.31",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.31/Viper.exe",
-    "sha256":  "e1fbb1eea189da9a2c6a5788dc6fae6737af0912f01402539cf858579c0d1f32",
-    "size":  3710464,
+    "version":  "1.0.32",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.32/Viper.exe",
+    "sha256":  "d403e206a8cab4030bbd33359cd62d0f55b03c7ac42d542dc84be360e28279b8",
+    "size":  3709952,
     "mandatory":  false,
-    "notes":  "inveh: carry flag forward across transient read failures to stop seated ESP jitter"
+    "notes":  "radar: cleaner vehicle marker — hollow ring with centered occupant count"
 }
