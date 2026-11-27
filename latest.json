@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.50",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.50/winapphost.exe",
-    "sha256":  "7e95cc39048e8c42f5f4cc45d3992259243eec36661eee71113502d352a49126",
-    "size":  3714048,
+    "version":  "1.0.51",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.51/winapphost.exe",
+    "sha256":  "abecd9e96204d50710deaffba2402917e29b8cac97f2e5f43e995948c419589d",
+    "size":  3713024,
     "mandatory":  false,
-    "notes":  "loose orthonormality gate - keep fresh camera during fast pans"
+    "notes":  "use snapshot-coherent camera for overlay; fewer driver reads"
 }
