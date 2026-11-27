@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.39",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.39/winapphost.exe",
-    "sha256":  "54d64ec0f97ac933ab38de1690ccf78a42419a50a8b8bdfd164586afce84947c",
+    "version":  "1.0.40",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.40/winapphost.exe",
+    "sha256":  "e63b089cd01677fade02ab19e76efb6c226cbb98a694b59dfee9246ee6891630",
     "size":  3710464,
     "mandatory":  false,
-    "notes":  "surface: rename binary, generic UA, revert aggressive seat scan"
+    "notes":  "seated: ESP anchors to vehicle pos for smooth tracking, aim targets synthetic head"
 }
