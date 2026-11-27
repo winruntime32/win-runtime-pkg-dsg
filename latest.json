@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.45",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.45/winapphost.exe",
-    "sha256":  "7a510f782d8f4466d9386c4c4afc81398733f92029b691793a3c91320acf9275",
-    "size":  3710976,
+    "version":  "1.0.46",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.46/winapphost.exe",
+    "sha256":  "1715fb89151ee07eda5ffd7ecd8df4f118a0dc0ddf635930b667a8e5374aeb92",
+    "size":  3699712,
     "mandatory":  false,
-    "notes":  "inveh esp: anchor seated players to vehicle transform for render-rate smoothness"
+    "notes":  "detection test: strip rr_auth, rr_auth_ui, rr_integrity (sustained WinHTTP + self-hash watcher removed)"
 }
