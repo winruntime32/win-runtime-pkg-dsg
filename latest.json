@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.33",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.33/Viper.exe",
-    "sha256":  "331f660b14c43351177a680b9520ddf2a605b17517b5c0dc114f8aa00063703e",
-    "size":  3709440,
+    "version":  "1.0.34",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.34/Viper.exe",
+    "sha256":  "94fb8d0b4eae9bc418745a872b1e83d922535c4291a7eab88b5cd566be65cafb",
+    "size":  3709952,
     "mandatory":  false,
-    "notes":  "radar: thin ring + bigger centered occupant dot"
+    "notes":  "occupants: tally inveh players, prefer larger over seat-flag count"
 }
