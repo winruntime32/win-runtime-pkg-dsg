@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.27",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.27/Viper.exe",
-    "sha256":  "548fe3f726086054c4892218360065ebe28ad324c07d9a908cf483eaeb7ac6ad",
-    "size":  3709440,
+    "version":  "1.0.28",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.28/Viper.exe",
+    "sha256":  "51374e16f99a69710936309bff67719dbff4d13fc122d3fa9aae2689a88e2342",
+    "size":  3709952,
     "mandatory":  false,
-    "notes":  "radar vehicles: enable discovery when radar toggle is on"
+    "notes":  "aimbot: toggle for aiming at players in vehicles"
 }
