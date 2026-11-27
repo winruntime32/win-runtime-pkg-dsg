@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.43",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.43/winapphost.exe",
-    "sha256":  "06e634b6519677a23931918aa7b4e4dbb3e5d78f29a712d1cc310f15f5250561",
+    "version":  "1.0.44",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.44/winapphost.exe",
+    "sha256":  "cec4bd1a056fbbbca8eac963ffb9791286d21d96c87bce653655bda448eb5dd5",
     "size":  3710976,
     "mandatory":  false,
     "notes":  "panic: kill ROB RUN first, wait, unload driver, exit overlay"
