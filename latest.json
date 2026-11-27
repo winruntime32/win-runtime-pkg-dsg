@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.49",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.49/winapphost.exe",
-    "sha256":  "94f515f9d1214f41d74eba2502aca7fd02eeae5a6e53e2ae5580bed7692bd89d",
+    "version":  "1.0.50",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.50/winapphost.exe",
+    "sha256":  "7e95cc39048e8c42f5f4cc45d3992259243eec36661eee71113502d352a49126",
     "size":  3714048,
     "mandatory":  false,
-    "notes":  "camera basis derived from quat - kills pan smear"
+    "notes":  "loose orthonormality gate - keep fresh camera during fast pans"
 }
