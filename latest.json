@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.26",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.26/Viper.exe",
-    "sha256":  "886b5ecfdbeef179d5846e7f9804318d2a4501cfe8fabb8109b702694279e026",
+    "version":  "1.0.27",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.27/Viper.exe",
+    "sha256":  "548fe3f726086054c4892218360065ebe28ad324c07d9a908cf483eaeb7ac6ad",
     "size":  3709440,
     "mandatory":  false,
-    "notes":  "aim highlight: recolor head+skeleton instead of box"
+    "notes":  "radar vehicles: enable discovery when radar toggle is on"
 }
