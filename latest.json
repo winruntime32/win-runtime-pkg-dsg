@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.36",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.36/Viper.exe",
-    "sha256":  "ed16ae20179428bed35c166645a85dbb26dd0055cf1e09dd616802a126970164",
-    "size":  3709952,
+    "version":  "1.0.37",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.37/Viper.exe",
+    "sha256":  "a5f6541e134e66d9f8035152a2cb9767b6d0ffc9e9f9f80c046d48f5335a7e93",
+    "size":  3710464,
     "mandatory":  false,
-    "notes":  "radar: vehicle dot takes dominant occupant\u0027s role color"
+    "notes":  "radar: vehicle stretches into oval with per-occupant colored dots"
 }
