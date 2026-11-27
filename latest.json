@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.24",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.24/Viper.exe",
-    "sha256":  "af428dc37ad21953749ccb986fa3436ec01fa232c95213886430ed318c802837",
+    "version":  "1.0.25",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.25/Viper.exe",
+    "sha256":  "38b4472c32fb82fd08bb8d6eeedaa73d2ec33df2558b0bf8288bd44957470e2b",
     "size":  3709440,
     "mandatory":  false,
-    "notes":  "launch guard + radar vehicles fix + letterbox aspect fix"
+    "notes":  "radar: skip in-vehicle players + larger ring"
 }
