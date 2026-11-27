@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.48",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.48/winapphost.exe",
-    "sha256":  "007c03abe21330154ca9e992c0620dd964f13f93c572104999d91b87a8efca62",
+    "version":  "1.0.49",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.49/winapphost.exe",
+    "sha256":  "94f515f9d1214f41d74eba2502aca7fd02eeae5a6e53e2ae5580bed7692bd89d",
     "size":  3714048,
     "mandatory":  false,
-    "notes":  "offline ECDSA P-256 license; no more WinHTTP auth traffic"
+    "notes":  "camera basis derived from quat - kills pan smear"
 }
