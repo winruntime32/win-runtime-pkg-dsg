@@ -1,7 +1,8 @@
 {
-    "version":  "1.0.22",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.22/Viper.exe",
-    "sha256":  "dd480eb4cc65fe90ba2e522144c4738131fd5758ac1e55808c437615edec7b42",
-    "notes":  "",
-    "mandatory":  false
+    "version":  "1.0.23",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.23/Viper.exe",
+    "sha256":  "b2cbd84273c730f3d2c386ffc74f1f9c0ee7b10e52b4a91f6ba87171d046e726",
+    "size":  3708416,
+    "mandatory":  false,
+    "notes":  "color coding: cop/robber/civilian/citizen toggles + swatches"
 }
