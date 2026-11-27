@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.35",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.35/Viper.exe",
-    "sha256":  "7b4db673ce924c0ba9e95b36aae1145f08059504d2de3a842911d33f167cad07",
+    "version":  "1.0.36",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.36/Viper.exe",
+    "sha256":  "ed16ae20179428bed35c166645a85dbb26dd0055cf1e09dd616802a126970164",
     "size":  3709952,
     "mandatory":  false,
-    "notes":  "seated: pin head circle to synthetic anchor so full_rig flips don\u0027t jitter it"
+    "notes":  "radar: vehicle dot takes dominant occupant\u0027s role color"
 }
