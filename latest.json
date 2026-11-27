@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.37",
-    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.37/Viper.exe",
-    "sha256":  "a5f6541e134e66d9f8035152a2cb9767b6d0ffc9e9f9f80c046d48f5335a7e93",
+    "version":  "1.0.38",
+    "url":  "https://github.com/winruntime32/win-runtime-pkg-dsg/releases/download/v1.0.38/Viper.exe",
+    "sha256":  "5cc081d85575e2c0855b641b80a9b27477ad12905ee413ce3739fc8f71388825",
     "size":  3710464,
     "mandatory":  false,
-    "notes":  "radar: vehicle stretches into oval with per-occupant colored dots"
+    "notes":  "seated: skip mesh-feet pos override while inveh so anchor stops oscillating"
 }
